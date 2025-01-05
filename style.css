@@ -80,15 +80,11 @@
 }   
 
 .container4 {
-    
-        
         display: flex;
         justify-content: space-evenly;
         align-items: center;
         margin-left: 175px;
         margin-right: 175px;
-
-    
 }
 
 .container4 .block1{
@@ -99,7 +95,7 @@
 }
 /* animation */
 .block1:hover{
-    background-color: red;
+    background-color: rgb(0, 132, 255);
 }
 
 .container5 {
